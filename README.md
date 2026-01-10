@@ -25,4 +25,3 @@ University of Kansas
 Hokkaido University
 University of Connecticut
 Princess Nourah bint Abdulrahman University
-<img width="81" height="289" alt="image" src="https://github.com/user-attachments/assets/226a1906-083a-4bb7-8fdb-eae0bb3aff00" />
