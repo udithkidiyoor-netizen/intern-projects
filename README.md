@@ -1,4 +1,5 @@
 ## universities similar to Manipal Academy at different parameters
+## Ranking- Times Higher Education
 #### 2024
 University of Gothenburg,University of Miami,Tianjin University,Nankai University,University of Southern Denmark,Kyushu University,Drexel University,University of Kansas,Hokkaido University,King Khalid University, UiT The Arctic University of Norway
 #### 2025
